@@ -112,7 +112,7 @@ corrected. These items need an analyst's judgement and were left unchanged:
 - Operating cash flows and the ratio table are typed in by hand from the annual reports.
 - FY2020-21 F-score is not like-for-like because of the April 2020 merger with GSK Consumer Healthcare.
 
-## Project team
+## Project by
 
 **Mukesh Kumar**, MBA - BAI, NFSU GANDHINAGAR
 
