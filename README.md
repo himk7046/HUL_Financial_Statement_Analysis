@@ -27,20 +27,20 @@ stakeholder groups.
 Revenue rose 11.3% in FY22 and 15.5% in FY23, then only 2.2% in FY24 and 1.7% in FY25. Net profit margin stayed
 in a 16.7% to 17.3% band throughout, so profit growth followed revenue growth.
 
-![Revenue and profit after tax, FY21 to FY25](assets/01_revenue_and_profit.png)
+
 
 ### 2. ROE improved, but the drivers changed
 DuPont splits ROE into margin × asset turnover × equity multiplier. Margin was flat. ROE first rose because
 assets worked harder (turnover 0.68 to 0.82 by FY23); in FY24-25 it rose because the equity multiplier climbed from
 1.43 to 1.59. A rise driven by leverage is lower quality than one driven by efficiency.
 
-![DuPont decomposition of ROE](assets/02_dupont_roe.png)
+
 
 ### 3. Bankruptcy risk is very low but trending the wrong way
 The Altman Z-score stays above the safe-zone threshold in all five years. It fell from 3.87 (FY23) to 3.34 (FY25)
 as total liabilities grew from ₹21,604 cr to ₹29,160 cr and equity fell.
 
-![Altman Z-score versus safe zone](assets/03_altman_z_score.png)
+
 
 ### 4. Equity funds a smaller share of the balance sheet
 Equity went from 69.6% to 62.8% of total assets and current liabilities from 15.9% to 20.0%. This is **not**
@@ -48,7 +48,7 @@ borrowing: the balance sheet has no borrowings line. The growth is in tax liabil
 liability in FY25), trade payables and leases. Equity fell ₹1,820 cr in FY25 despite ₹10,644 cr of profit, which
 implies distributions and other reserve movements larger than profit; the workbook does not itemise them.
 
-![Balance sheet funding mix](assets/04_balance_sheet_funding.png)
+
 
 ### 5. Liquidity weakened in FY25
 Recalculated from the year-end statements, the current ratio moved from 1.64 (FY24) to 1.33 (FY25). The workbook's
