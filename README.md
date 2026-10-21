@@ -68,7 +68,7 @@ The workbook closes with a risk table. This is a classroom exercise, **not inves
 
 ## What is in the workbook
 
-[`HUL_Financial_Statement_Analysis.xlsx`](HUL_Financial_Statement_Analysis.xlsx) has 12 sheets and 609 formula
+[`HUL_Financial_Statement_Analysis.xlsx`](Accounts.xlsx) has 12 sheets and 609 formula
 cells. Open it in Excel or LibreOffice.
 
 | Sheet | Purpose |
